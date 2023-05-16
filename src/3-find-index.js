@@ -1,3 +1,4 @@
 export const findIndex = (array, value) => {
-  return
-}
+  let index = array.indexOf(value);
+  return index;
+} 
